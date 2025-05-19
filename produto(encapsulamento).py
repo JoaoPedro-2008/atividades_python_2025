@@ -45,4 +45,4 @@ class Produto:
 
 
 # Exemplo de uso:
-produto1 = Pro
+produto1 = Produto("Camiseta", 29.90, 100)
